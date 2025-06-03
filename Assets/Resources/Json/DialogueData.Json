@@ -1,0 +1,6 @@
+[
+    {"index":1,"content":"我是传奇魔法师-六七，你也可以叫我达，达需要你的帮助","State":0,"isTask":0,"TaskID":-1},
+    {"index":2,"content":"我的绝世无敌传家宝箱被人偷走了，里面有一把超级大宝剑也被偷走了，呜呜呜呜呜呜呜（痛苦面具脸）","State":0,"isTask":0,"TaskID":-1},
+    {"index":3,"content":"帮我打败那个家伙，我就可以成为独属于你的商店哦（魅惑脸），亲~","State":0,"isTask":1,"TaskID":2},
+    {"index":4,"content":"啊立嘎多，子君桑,现在可以购买装备了哟,来看看都有什么好东西吧~","State":1,"isTask":0,"TaskID":-1}
+]

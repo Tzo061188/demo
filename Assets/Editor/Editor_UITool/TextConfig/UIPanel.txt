@@ -1,0 +1,11 @@
+using UnityEngine.UI;
+using UnityEngine;
+using TMPro;
+
+public class {0} : {1}Base
+{{
+	protected override void Start(){{
+		base.Start();
+	}}
+		
+}}

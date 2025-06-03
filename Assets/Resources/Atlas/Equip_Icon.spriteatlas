@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Equip_Icon
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1a28a679dd9baec498982e663b0c54c0, type: 3}
+    - {fileID: 2800000, guid: b3ff62d030127904cb5abc0881f17e8d, type: 3}
+    - {fileID: 2800000, guid: aa5b73a7156315a42af22fde3a235d58, type: 3}
+    - {fileID: 2800000, guid: 937d8c5a21c6094449ef5a675e79af4c, type: 3}
+    - {fileID: 2800000, guid: 73275733fad133d45a774820bcbfb622, type: 3}
+    - {fileID: 2800000, guid: 85a073a5796826441b5226926c0b77bb, type: 3}
+    - {fileID: 2800000, guid: c80d026a183865c46848dfc3e69917d9, type: 3}
+    - {fileID: 2800000, guid: 123390c613bbfbd4b8bfa1140979db32, type: 3}
+    - {fileID: 2800000, guid: a3e0873641b02084d9be12541f092015, type: 3}
+    - {fileID: 2800000, guid: 1df0514bd0f1b9e489a27c8f283779a8, type: 3}
+    - {fileID: 2800000, guid: 9c039648bf2c38745affe591d65e80b5, type: 3}
+    - {fileID: 2800000, guid: 1309611d7bf4ccf4a94a2f3f802a8e54, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - b3ff62d030127904cb5abc0881f17e8d: 21300000
+    - 73275733fad133d45a774820bcbfb622: 21300000
+    - 85a073a5796826441b5226926c0b77bb: 21300000
+    - a3e0873641b02084d9be12541f092015: 21300000
+    - 123390c613bbfbd4b8bfa1140979db32: 21300000
+    - aa5b73a7156315a42af22fde3a235d58: 21300000
+    - 9c039648bf2c38745affe591d65e80b5: 21300000
+    - 1a28a679dd9baec498982e663b0c54c0: 21300000
+    - 937d8c5a21c6094449ef5a675e79af4c: 21300000
+    - c80d026a183865c46848dfc3e69917d9: 21300000
+    - 1df0514bd0f1b9e489a27c8f283779a8: 21300000
+    - 1309611d7bf4ccf4a94a2f3f802a8e54: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b3ff62d030127904cb5abc0881f17e8d, type: 3}
+  - {fileID: 21300000, guid: 73275733fad133d45a774820bcbfb622, type: 3}
+  - {fileID: 21300000, guid: 85a073a5796826441b5226926c0b77bb, type: 3}
+  - {fileID: 21300000, guid: a3e0873641b02084d9be12541f092015, type: 3}
+  - {fileID: 21300000, guid: 123390c613bbfbd4b8bfa1140979db32, type: 3}
+  - {fileID: 21300000, guid: aa5b73a7156315a42af22fde3a235d58, type: 3}
+  - {fileID: 21300000, guid: 9c039648bf2c38745affe591d65e80b5, type: 3}
+  - {fileID: 21300000, guid: 1a28a679dd9baec498982e663b0c54c0, type: 3}
+  - {fileID: 21300000, guid: 937d8c5a21c6094449ef5a675e79af4c, type: 3}
+  - {fileID: 21300000, guid: c80d026a183865c46848dfc3e69917d9, type: 3}
+  - {fileID: 21300000, guid: 1df0514bd0f1b9e489a27c8f283779a8, type: 3}
+  - {fileID: 21300000, guid: 1309611d7bf4ccf4a94a2f3f802a8e54, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 2
+  - 11
+  - 8
+  - 5
+  - 9
+  - 10
+  - 12
+  - 1
+  - 3
+  - 6
+  - 7
+  - 4
+  m_RenderDataMap: {}
+  m_Tag: Equip_Icon
+  m_IsVariant: 0

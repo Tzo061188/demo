@@ -1,0 +1,5 @@
+[
+{"TaskID":1,"IsAccept":0,"IsDone":0,"TaskName":"测试任务名称","Describe":"测试任务描述----","Reward_Describe":"测试奖励----一把剑","Target":"小史莱姆","ReWard_ID":1},
+{"TaskID":2,"IsAccept":0,"IsDone":0,"TaskName":"帮助六七","Describe":"使用技能打败萧楚楠梁","Reward_Describe":"金币 500","Target":0,"ReWard_ID":1},
+{"TaskID":3,"IsAccept":0,"IsDone":0,"TaskName":"","Describe":"","Reward_Describe":"","Target":1,"ReWard_ID":1}
+]

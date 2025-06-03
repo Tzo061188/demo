@@ -1,0 +1,14 @@
+[
+{"ID":0,"Name":"大剑","Icon":"Equip_Icon/1","Type":1,"AtkValue":1,"DefValue":1,"HPValue":0,"Describe":"最普通最原始的一把剑"},
+{"ID":1,"Name":"黄金大剑","Icon":"Equip_Icon/2","Type":1,"AtkValue":2,"DefValue":2,"HPValue":0,"Describe":"传说中霓虹国武士使用的武器"},
+{"ID":2,"Name":"铁质头盔","Icon":"Equip_Icon/10","Type":2,"AtkValue":0,"DefValue":2,"HPValue":0,"Describe":"可以做到简单的防护效果"},
+{"ID":3,"Name":"附魔头盔","Icon":"Equip_Icon/3","Type":2,"AtkValue":1,"DefValue":3,"HPValue":1,"Describe":"经过传奇魔法师-六七 附魔的头盔"},
+{"ID":4,"Name":"铁质护甲","Icon":"Equip_Icon/11","Type":3,"AtkValue":0,"DefValue":3,"HPValue":1,"Describe":"可以做到简单的防护效果"},
+{"ID":5,"Name":"附魔护甲","Icon":"Equip_Icon/8","Type":3,"AtkValue":2,"DefValue":4,"HPValue":2,"Describe":"经过传奇魔法师-六七 附魔的护甲"},
+{"ID":6,"Name":"蓝宝石","Icon":"Equip_Icon/6","Type":4,"AtkValue":1,"DefValue":1,"HPValue":1,"Describe":"海蓝宝石精心打磨而成的宝石，让人心情愉悦"},
+{"ID":7,"Name":"紫宝石","Icon":"Equip_Icon/9","Type":4,"AtkValue":3,"DefValue":3,"HPValue":3,"Describe":"可以用于为物品附魔，也可以佩戴在身，让人充满了力量"},
+{"ID":8,"Name":"绿宝石戒指","Icon":"Equip_Icon/5","Type":5,"AtkValue":1,"DefValue":1,"HPValue":3,"Describe":"由绿宝石而制作的戒指，给以提供生命值上限"},
+{"ID":9,"Name":"红宝石戒指","Icon":"Equip_Icon/7","Type":5,"AtkValue":3,"DefValue":1,"HPValue":1,"Describe":"由红宝石而制作的戒指，给以提供攻击加成"},
+{"ID":10,"Name":"小回复药水","Icon":"Equip_Icon/12","Type":6,"AtkValue":0,"DefValue":0,"HPValue":2,"Describe":"由传奇炼药师-龙共 炼制而成的魔法回复药水"},
+{"ID":11,"Name":"大回复药水","Icon":"Equip_Icon/4","Type":6,"AtkValue":0,"DefValue":0,"HPValue":4,"Describe":"由传奇炼药师-龙共 他耗尽了毕生的心血炼制而成的魔法回复药水"}
+]

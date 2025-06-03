@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 590e3186f5eae714e8a733eb6d27e1db, type: 3}
+  m_Name: PlayerSO
+  m_EditorClassIdentifier: 
+  movementData:
+    idleData:
+      movementValue: 0
+      playerSpeed: 0
+    walkData:
+      movementValue: 1
+      playerSpeed: 3
+    runData:
+      movementValue: 2
+      playerSpeed: 7
+  attackModuleData:
+    lightAttack: {fileID: 11400000, guid: ddea5f257145c314593c102906d61c6d, type: 2}
+    heavyAttack: {fileID: 11400000, guid: 47c373b33d35dd34796905d2641593f0, type: 2}
+    finalSkillAttack: {fileID: 11400000, guid: a84b3be2c7d9e9b43ad424dec1e6e8a4, type: 2}
+    normalSkillAttack: {fileID: 11400000, guid: 59ad9828d78ba4c48b923098d041b65e, type: 2}
+    parrySkillAttack: {fileID: 0}
